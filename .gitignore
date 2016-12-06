@@ -1,0 +1,15 @@
+*.dll
+src/test/bin/Debug/cocoafob.pdb
+src/test/bin/Debug/cocoafob_test.pdb
+src/test/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+src/test/bin/Debug/resources/dsa_pub.pem
+src/test/bin/Debug/resources/privkey.pem
+src/test/bin/Debug/resources/pubkey.pem
+src/test/obj/Debug/cocoafob_test.csproj.FileListAbsolute.txt
+src/test/obj/Debug/cocoafob_test.csprojResolveAssemblyReference.cache
+src/test/obj/Debug/cocoafob_test.pdb
+src/test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+src/test/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+src/test/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+src/test/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+src/test/.vs/cocoafob_test/v14/.suo
