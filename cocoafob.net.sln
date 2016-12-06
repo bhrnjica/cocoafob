@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cocoafob.net", "cocoafob.net.csproj", "{7D97B3D0-AE9C-412B-AD61-FE484085C450}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cocoafob.net", "cocoafob.net\cocoafob.net.csproj", "{7D97B3D0-AE9C-412B-AD61-FE484085C450}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cocoafob_test", "..\testproject\cocoafob_test.csproj", "{D25709AD-00E6-4E10-A2A2-00FB1B3BDA44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cocoafob_test", "testproject\cocoafob_test.csproj", "{D25709AD-00E6-4E10-A2A2-00FB1B3BDA44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
